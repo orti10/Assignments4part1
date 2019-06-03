@@ -1,6 +1,6 @@
 #include "SmartGuesser.hpp"
 using namespace bullpgia;
-using namespace std:
+using std::string;
 SmartGuesser::SmartGuesser(){}
 
 string SmartGuesser::guess() {
