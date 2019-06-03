@@ -1,6 +1,6 @@
 #include "calculate.hpp"
 
 string calculateBullAndPgia(string choice, string guess){
-    string ans = "1234";
+    string ans = "";
     return ans;
 }
