@@ -1,12 +1,10 @@
 #include "SmartGuesser.hpp"
 using namespace bullpgia;
-
+using namespace std:
 SmartGuesser::SmartGuesser(){}
 
 string SmartGuesser::guess() {
-    std::string ans = "1234";
+    string ans = "";
     return ans;
 }
-void SmartGuesser::learn(string reply){
-    
-}
+void SmartGuesser::learn(string calculate){}
